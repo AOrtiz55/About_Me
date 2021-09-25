@@ -1,0 +1,199 @@
+body{
+  background-color:white;
+  margin:0;
+  text-align: center;
+
+  font-size: 20px;
+
+}
+.I{
+  font-size: 80px;
+}
+.code{
+width:500px;
+}
+.me{
+  border-radius: 50%;
+}
+.skills{
+  display: inline-block;
+  position: relative;
+
+}
+.skill_one{
+width:26%;
+display:inline-block;
+position: relative;
+border: 5px solid;
+bottom:4px;
+
+
+}
+.skill_two{
+  display: inline-block;
+  position: relative;
+  max-width:26%;
+  max-height: 670px;
+
+border: 5px solid;
+
+}
+.skill_three{
+  display: inline-block;
+  position: relative;
+  width:56%;
+  height:173px;
+
+  border: 5px solid;
+
+}
+.skill-roww{
+  display: inline-block;
+  position: relative;
+  left:-445px;
+  color:white;
+top:16px;
+max-width: 100%;
+
+}
+hr{
+  border: 2px solid;
+  border-color: white;
+}
+.skill_row2{
+  display: inline-block;
+  position: relative;
+left:-25px;
+  margin-left: 4rem;
+  margin-right: 1rem;
+  bottom:295px;
+  max-width: 100%;
+
+}
+.skill_row3{
+  display: block;
+  position: absolute;
+bottom:0px;
+top:1px;
+left:720px;
+margin-left: 3rem;
+width:44%;
+max-width: 100%;
+}
+.Python_cert{
+  width:50%;
+  border: 5px solid;
+
+}
+.Cert{
+background-color: #FF4C29;
+display:block;
+position: relative;
+
+padding:1em;
+border-top: 4px solid;
+border-color: white;
+
+}
+h1{
+  margin-top:0;
+  font-family: 'Bonheur Royale', cursive;
+  font-size:70px;
+
+
+}
+.py:hover {
+  background-color: pink;
+  margin-left: 700px;
+margin-right: 700px;
+  display:block;
+
+}
+.bottomcloud{
+  display: block;
+  position: absolute;
+  left:70px;
+  bottom:220px;
+  height: 70px;
+}
+
+.top{
+
+  position: relative;
+  padding-top: 100px;
+  background-color:  #3EDBF0;
+
+  border-color: black;
+
+}
+.middle-container{
+display:block;
+position:relative;
+height:800px;
+width:100%;
+background-color: #1E212D;
+color:white;
+padding-top: 1em;
+}
+.bottom{
+/*showing inline-block is how you can get elemens side by side*/
+display: inline-block;
+position: relative;
+width:100%;
+background-color: #E6D5B8
+
+}
+.bottomH{
+  padding:1em;
+  border-top: 5px solid;
+  margin-top: 40px;
+  border-color: white;
+  text-decoration: underline;
+
+}
+.c{
+  display: inline-block;
+  position: relative;
+  right: 200px;
+}
+.topcloud{
+display: inline-block;
+  position:relative;
+right:100px;
+top:30px;
+height: 70px;
+}
+.T{
+bottom: 10px;
+  display: inline-block;
+  position: relative;
+  left:350px;
+
+}
+
+.Greet{
+  display: block;
+  position: relative;
+  bottom:20px;
+}
+.good{
+  display: block;
+  position: relative;
+  bottom:15px;
+}
+.btn{
+  display: block;
+  position: relative;
+  bottom:15px;
+}
+.contact-me{
+
+  display: block;
+  position: relative;
+  bottom:45px;
+}
+.bottom-container{
+  display: block;
+  position: relative;
+bottom:40px;
+}
