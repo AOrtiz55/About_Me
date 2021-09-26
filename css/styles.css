@@ -16,69 +16,58 @@ width:500px;
   border-radius: 50%;
 }
 .skills{
-  display: inline-block;
-  position: relative;
 
+border-top: 5px solid;
 }
 .skill_one{
 width:26%;
-display:inline-block;
-position: relative;
+
 border: 5px solid;
-bottom:4px;
+
 
 
 }
 .skill_two{
-  display: inline-block;
-  position: relative;
-  max-width:26%;
-  max-height: 670px;
+
+  width:26%;
+
 
 border: 5px solid;
 
 }
 .skill_three{
-  display: inline-block;
-  position: relative;
-  width:56%;
-  height:173px;
+
+  width:26%;
+
 
   border: 5px solid;
 
 }
 .skill-roww{
-  display: inline-block;
-  position: relative;
-  left:-445px;
-  color:white;
+padding:30px;
+
+color:white;
 top:16px;
-max-width: 100%;
 
 }
 hr{
   border: 2px solid;
-  border-color: white;
-}
-.skill_row2{
-  display: inline-block;
-  position: relative;
-left:-25px;
-  margin-left: 4rem;
-  margin-right: 1rem;
-  bottom:295px;
-  max-width: 100%;
+  border-color: orange;
+width:50%;
 
 }
+
+
+.skill_row2{
+display: block;
+position: relative;
+
+padding-top: 20px;
+}
 .skill_row3{
-  display: block;
-  position: absolute;
-bottom:0px;
-top:1px;
-left:720px;
-margin-left: 3rem;
-width:44%;
-max-width: 100%;
+  display: inline-block;
+  position: relative;
+  margin-top: 20px;
 }
 .Python_cert{
   width:50%;
@@ -99,8 +88,6 @@ h1{
   margin-top:0;
   font-family: 'Bonheur Royale', cursive;
   font-size:70px;
-
-
 }
 .py:hover {
   background-color: pink;
@@ -127,13 +114,14 @@ margin-right: 700px;
 
 }
 .middle-container{
-display:block;
-position:relative;
-height:800px;
+  display: inline-block;
+  position: relative;
 width:100%;
 background-color: #1E212D;
 color:white;
 padding-top: 1em;
+margin-bottom: auto;
+
 }
 .bottom{
 /*showing inline-block is how you can get elemens side by side*/
@@ -197,3 +185,4 @@ bottom: 10px;
   position: relative;
 bottom:40px;
 }
+
