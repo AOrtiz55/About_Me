@@ -176,7 +176,7 @@ background-color: #E6D5B8
 .bottomH{
   padding:1em;
   border-top: 5px solid;
-  margin-top: 40px;
+  margin-top: 30px;
   border-color: white;
   text-decoration: underline;
 
@@ -220,11 +220,20 @@ bottom: 10px;
 
   display: block;
   position: relative;
-  bottom:45px;
+  bottom:30px;
 }
 .bottom-container{
-  display: block;
-  position: relative;
-bottom:40px;
+display: block;
+position: relative;
+padding-top: 20px;
+background-color:  #1E212D;
+height: 150px;
+color:white;
+
 }
+.footer-link{
+color: white;
+  width: 10px;
+}
+
 
